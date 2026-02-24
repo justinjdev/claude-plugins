@@ -10,8 +10,8 @@
     {
       "name": "fellowship",
       "source": {
-        "source": "github",
-        "repo": "justinjdev/fellowship"
+        "source": "url",
+        "url": "https://github.com/justinjdev/fellowship.git"
       },
       "description": "Multi-quest orchestrator. Coordinates parallel quests via agent teams with structured research-plan-implement lifecycles and worktree isolation. Includes 7 skills and 2 agents.",
       "version": "1.0.0",
