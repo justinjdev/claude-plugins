@@ -13,8 +13,8 @@
         "source": "url",
         "url": "https://github.com/justinjdev/fellowship.git"
       },
-      "description": "Multi-quest orchestrator. Coordinates parallel quests via agent teams with structured research-plan-implement lifecycles and worktree isolation. Includes 9 skills and 1 agent.",
-      "version": "1.4.1",
+      "description": "Multi-quest orchestrator. Coordinates parallel quests via agent teams with structured research-plan-implement lifecycles and worktree isolation. Includes 10 skills and 2 agents.",
+      "version": "1.6.0",
       "author": {
         "name": "justinjdev"
       },
