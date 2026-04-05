@@ -28,7 +28,7 @@
         "url": "https://github.com/justinjdev/fight-club.git"
       },
       "description": "Adversarial code review plugin. Fights bad code so your reviewers don't have to. Includes skills for architecture, security, SRE, QA, and performance review.",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "author": {
         "name": "justinjdev"
       },
